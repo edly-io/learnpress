@@ -1,5 +1,6 @@
 <?php
 
+require_once('abstract-settings-page.php');
 /**
  * Class LP_Settings_General
  *
